@@ -1,6 +1,6 @@
 # Java Portfolio Project: Hospital Management System
 
-This is a **real-world Java project** you can showcase in your portfolio. It models the basic operations of a hospital:
+It models the basic operations of a hospital:
 
 - Manage doctors
 - Manage patients
@@ -28,7 +28,3 @@ src/main/java/com/portfolio/hospital
 │   └── Patient.java
 └── service
     └── HospitalService.java
-
->>>>>>> theirs
-=======
->>>>>>> theirs
