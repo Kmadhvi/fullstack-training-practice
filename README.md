@@ -1,15 +1,3 @@
-<<<<<<< ours
-<<<<<<< ours
-<<<<<<< ours
-<<<<<<< ours
-"# fullstack-training-practice" 
-=======
-=======
->>>>>>> theirs
-=======
->>>>>>> theirs
-=======
->>>>>>> theirs
 # Java Portfolio Project: Hospital Management System
 
 This is a **real-world Java project** you can showcase in your portfolio. It models the basic operations of a hospital:
