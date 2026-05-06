@@ -1,0 +1,19 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+@import "@angular/material/prebuilt-themes/azure-blue.css";
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, Roboto, "Helvetica Neue", Arial, sans-serif;
+  color: #182230;
+  background: #f5f7f8;
+}
+
+* {
+  box-sizing: border-box;
+}

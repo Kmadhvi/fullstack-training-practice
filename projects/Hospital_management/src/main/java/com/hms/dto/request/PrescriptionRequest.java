@@ -1,0 +1,16 @@
+package com.hms.dto.request;
+
+import jakarta.validation.Valid;
+import jakarta.validation.constraints.NotEmpty;
+import jakarta.validation.constraints.NotNull;
+
+import java.util.List;
+
+public record PrescriptionRequest(
+        @NotNull Long consultationId,
+        @NotNull Long patientId,
+        @NotNull Long doctorId,
+        String instructions,
+        @Valid @NotEmpty List<PrescriptionItemRequest> items
+) {
+}
