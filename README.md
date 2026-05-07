@@ -19,7 +19,7 @@ Technical Highlights
 - Maven
 
 ## Project Structure
-
+``
 src/main/java/com/portfolio/hospital
 ├── HospitalManagementApp.java
 ├── model
@@ -28,3 +28,4 @@ src/main/java/com/portfolio/hospital
 │   └── Patient.java
 └── service
     └── HospitalService.java
+    ``
